@@ -1,8 +1,8 @@
 # Plugin-demo
 A demo of plugin structure
 
-```Shell
-sh build_and_run.sh to run the main_exe
+``` Shell
+sh build_and_run.sh
 ```
 
 The demo accept standard input, and compile and link the foo.cpp into dynamic library named libfoo.so at runtime, then load the dynamic library to excute the foo.cpp by plugin.cpp.
