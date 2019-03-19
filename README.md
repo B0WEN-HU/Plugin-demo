@@ -21,7 +21,7 @@ The program will give the answer.
 y = 32
 ```
 
-The demo accept standard input as the body part of foo.cpp, compile and link the foo.cpp into dynamic library named libfoo.so at runtime, then load the dynamic library to excute the foo.cpp by plugin.cpp. Declaration part of the function is placed in `_foo.template`.
+The demo accept standard input as the body part of foo.cpp, compile and link the foo.cpp into dynamic library named libfoo.so at runtime, then load the dynamic library to excute the foo.cpp by plugin.cpp. Declaration part of the foo.cpp is placed in `_foo.template`.
 
 
 The structure is like:
