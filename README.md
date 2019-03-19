@@ -3,7 +3,7 @@ A demo of plugin structure
 
 Execute the following command in the shell to run the program.
 ``` Shell
-sh build_and_run.sh
+$sh build_and_run.sh
 ```
 
 The program will give the hint.
