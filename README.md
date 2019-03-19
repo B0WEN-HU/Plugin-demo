@@ -10,8 +10,8 @@ The program will give the hint.
 ``` C++
 Please input the code of the function y = foo(const int &x, int &y)
 ```
-Input will be the body of the function foo.cpp. For example, enter `y = 7 * x + 11;`.
-Then, the program will ask for the value of x.
+Input line will be the body of the function `foo.cpp`. For example, enter `y = 7 * x + 11;`.
+Then, the program will ask for the value of `x`.
 ``` C++
 Input the value of x:
 ```
