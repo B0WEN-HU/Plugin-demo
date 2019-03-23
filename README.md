@@ -1,5 +1,5 @@
 # Plugin-demo
-A demo of plugin structure
+This is a demo of plugin structure
 
 Execute the following command in the shell to run the program.
 ``` Shell
